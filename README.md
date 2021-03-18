@@ -7,7 +7,6 @@ This is an version of UNO made with python in Jupyter
 Eso es una version de UNO hecha con python en Jupyter
 
 ## PT:
-<<<<<<< HEAD
 Isto é uma versão do UNO feita com python no Jupyter
 
 ## РУ
