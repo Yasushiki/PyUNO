@@ -11,3 +11,7 @@ Isto é uma versão do UNO feita com python no Jupyter
 
 ## РУ
 водка смирноф катюша
+
+## JP:
+これはJupiterでPythonで作りましたUNOバージョンです
+
